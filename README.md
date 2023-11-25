@@ -1,4 +1,4 @@
-# Build Express Project (Movie Website)
+# Build Express Project
 **cd** to your **source folder (Ex: session-2)** then typing Commands Sequentially in Your Terminal
 ```
 npm install
