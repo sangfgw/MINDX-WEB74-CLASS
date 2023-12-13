@@ -16,4 +16,14 @@ npm start
 PRIVATE_JWT_KEY=GhabAgEvu2cQB6LvL0D/uQ==
 ```
 
+**.env file for session 7**
+
+```
+DB_USERNAME='haoedu02'
+DB_PASSWORD='haotruong123'
+DB_NAME='facebook'
+HASH_ROUND=10
+PRIVATE_KEY='web-74@2023<3'
+```
+
 **Note: You must install NodeJS to use npm.**
