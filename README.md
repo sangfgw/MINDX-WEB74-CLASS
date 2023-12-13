@@ -16,7 +16,7 @@ npm start
 PRIVATE_JWT_KEY=GhabAgEvu2cQB6LvL0D/uQ==
 ```
 
-**.env file for session 7**
+# .env file for session 7
 
 ```
 DB_USERNAME='haoedu02'
