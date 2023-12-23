@@ -39,4 +39,17 @@ CLOUDINARY_API_SECRET='-iiSkBnHJ1WMrj34IEC2v7YviGk'
 CLOUDINARY_CLOUD_NAME='dfnol2ud7'
 ```
 
+# .env file for session 10
+
+```
+DB_USERNAME='haoedu02'
+DB_PASSWORD='haotruong123'
+DB_NAME='facebook'
+HASH_ROUND=10
+PRIVATE_KEY='web-74@2023<3'
+CLOUDINARY_API_KEY='781628927733649'
+CLOUDINARY_API_SECRET='-iiSkBnHJ1WMrj34IEC2v7YviGk'
+CLOUDINARY_CLOUD_NAME='dfnol2ud7'
+```
+
 **Note: You must install NodeJS to use npm.**
